@@ -1,0 +1,1 @@
+<script>!function(e,t,a){var c,n=e.getElementsByTagName(t)[0];e.getElementById("lf-"+a)||((c=e.createElement(t)).id="lf-"+a,c.async=!0,c.src="https://popup.campaign.playable.com/script/dad84224d26fb89eaf2dd2e3dd2bda55/popup.min.js",n.parentNode.insertBefore(c,n))}(document,"script","dad84224d26fb89eaf2dd2e3dd2bda55");</script>
